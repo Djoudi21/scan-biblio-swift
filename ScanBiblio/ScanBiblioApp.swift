@@ -1,10 +1,3 @@
-//
-//  ScanBiblioApp.swift
-//  ScanBiblio
-//
-//  Created by Abdelkrim Djoudi on 06/04/2025.
-//
-
 import SwiftUI
 import SwiftData
 
